@@ -1,0 +1,15 @@
+{
+  "Bucket criteria": [
+    {
+      "criteria":"Primary",
+      "value":"Argus Alert",
+      "Child": [
+        {
+          "criteria":"Child",
+          "value": "CBatch-1P-prod"
+        }
+      ]
+    }
+  ],
+  "Priority": "High"
+}

@@ -1,13 +1,13 @@
 {
-  "Bucket criteria": [{
+  "bucket": [{
     "criteria": "Match Text",
     "value": "Argus Alert",
-    "Child": [
+    "child": [
       {
         "criteria": "Match Text",
         "value": "CBatch-1P-prod"
       }
     ],
-    "Priority": "High"
+    "priority": "High"
   }]
 }

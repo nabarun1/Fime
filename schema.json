@@ -5,7 +5,8 @@
     "child": [
       {
         "criteria": "Match Text",
-        "value": "CBatch-1P-prod"
+        "value": "CBatch-1P-prod",
+        "targetChannel": "C021KHANHSA"
       }
     ],
     "priority": "High"

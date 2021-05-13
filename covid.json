@@ -1,0 +1,19 @@
+{
+  "bucket": [{
+    "criteria": "Match Text",
+    "value": "Employee Covid 19 Related Assistance",
+    "child": [
+      {
+        "criteria": "Match Text",
+        "value": "Bangalore",
+        "targetChannel": "C021SPEAXJP"
+      },
+      {
+        "criteria": "Match Text",
+        "value": "Kolkata",
+        "targetChannel": "C021KPTK42J"
+      }
+    ],
+    "priority": "High"
+  }]
+}

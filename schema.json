@@ -35,6 +35,11 @@
         "criteria": "Match Text",
         "value": "Hyderabad",
         "targetChannel": "C0221HYRE92"
+      },
+      {
+        "criteria": "Match Text",
+        "value": "Vishakapatnam",
+        "targetChannel": "C021VMY0AP4"
       }
     ],
     "priority": "High"

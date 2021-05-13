@@ -1,0 +1,19 @@
+{
+  "bucket": [{
+    "criteria": "Match Text",
+    "value": "Argus Alert",
+    "child": [
+      {
+        "criteria": "Match Text",
+        "value": "CBatch-1P-prod/availability",
+        "targetChannel": "C021KHANHSA"
+      },
+      {
+        "criteria": "Match Text",
+        "value": "CBatch-1P-prod/faulttolerance-diskusage",
+        "targetChannel": "C021PARN5HB"
+      }
+    ],
+    "priority": "High"
+  }]
+}

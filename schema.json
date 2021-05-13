@@ -30,6 +30,11 @@
         "criteria": "Match Text",
         "value": "Kolkata",
         "targetChannel": "C021KPTK42J"
+      },
+      {
+        "criteria": "Match Text",
+        "value": "Hyderabad",
+        "targetChannel": "C0221HYRE92"
       }
     ],
     "priority": "High"

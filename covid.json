@@ -1,6 +1,6 @@
 {
   "bucket": [{
-    "parentSlackUrl": "slackhackathons.slack.com",
+    "parentSlackUrl": "https://slackhackathons.slack.com/archives/C021KHANHSA",
     "criteria": "Match Text",
     "value": "Employee Covid 19 Related Assistance",
     "child": [

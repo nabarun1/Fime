@@ -1,5 +1,6 @@
 {
   "bucket": [{
+    "parentSlackUrl": "slackhackathons.slack.com",
     "criteria": "Match Text",
     "value": "Argus Alert",
     "child": [
